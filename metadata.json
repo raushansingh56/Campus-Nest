@@ -1,0 +1,8 @@
+{
+  "name": "CampusNest - AI Student Accommodation & Companion Allocation",
+  "description": "AI-powered student accommodation platform that automatically allocates the most suitable room and verified student companion based on academic background, mother tongue, budget, and lifestyle habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
